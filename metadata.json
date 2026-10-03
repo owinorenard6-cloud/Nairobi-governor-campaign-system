@@ -1,0 +1,6 @@
+{
+  "name": "County Campaign Manager",
+  "description": "A mobile-friendly field operations and campaign coordination system for county gubernatorial elections with activities, tasks, community issues, and team tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
